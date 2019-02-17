@@ -6,4 +6,5 @@ speak in me when game have Issues
 
 minecraft coder pack is now available now!
 
-classic 0.32_01 has not archived
+classic 0.32_02 has not archived
+classic 0.32_05 has downloadable
