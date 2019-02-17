@@ -1,0 +1,18 @@
+0.31_09
+features form 0.30
+
+added items
+
+added cheat menu
+
+Death is no longer permanent; the player is now able to respawn.
+
+0.32
+
+renamed to "Minecraft java edition pre-release"
+
+arrows and bows; iron axe are currenty unobtainable (expert with mods)
+
+creative sandbox game have been added
+
+mobs can spawn in creative mode
