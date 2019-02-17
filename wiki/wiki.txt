@@ -11,6 +11,6 @@ arrows and bows; iron axe are currenty unobtainable (expert with mods)
 creative sandbox game have been added
 mobs can spawn in creative mode
 0.32_01
-Monsters are passive due to their hostile AI missing.
+Monsters are passive due to their hostile AI has removed.
 Sheep now spawn with no wool.
 changed hud name to "Indev_0.31_(February_3,_2010) update"
