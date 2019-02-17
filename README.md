@@ -1,1 +1,1 @@
-*minecraft classic 0.31_09
+minecraft classic 0.31_09
