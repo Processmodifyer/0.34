@@ -1,4 +1,4 @@
-minecraft classic  0.32
+minecraft classic  0.32 discontinued
 
 if Issues are in game am going to code to fix it.
 
@@ -10,4 +10,5 @@ classic 0.32_01 has not archived
 
 classic 0.32_05 has downloadable
 
---De--
+no longer continued
+
