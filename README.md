@@ -1,4 +1,4 @@
-minecraft classic 0.32 discontinued
+minecraft classic 0.32 continued
 
 if Issues are in game am going to code to fix it.
 
@@ -10,5 +10,3 @@ classic 0.32_01 has not archived buggy and throw exceptions
 
 classic 0.32_05 has downloadable
 
-dicontinued
-Nullpointerexception
