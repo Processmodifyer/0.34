@@ -10,3 +10,5 @@ classic 0.32_01 has not archived buggy and throw exceptions
 
 classic 0.32_05 has downloadable
 
+Post Issues or Pull Requests
+
