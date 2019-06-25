@@ -8,8 +8,14 @@ Death is no longer permanent; the player is now able to respawn.
 
 renamed to "Minecraft java edition pre-release"
 arrows and bows; iron axe are currenty unobtainable (expert with mods)
-creative sandbox game have been added
+Added creative mode.
 mobs can spawn in creative mode
+changes to level generator:
+trees and flowers no longer generate
+Because of this, flowers can only obtained via creative mode.
+
+fixed skeleton bug
+changed texture of grass block
 0.32_01
 Monsters are passive due to their hostile AI has removed.
 Sheep now spawn with no wool.
