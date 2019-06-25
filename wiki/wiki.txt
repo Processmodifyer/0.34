@@ -1,22 +1,28 @@
 0.31_09
 
-features form 0.30
-added items
-added cheat menu
+features form 0.30.
+added items.
+added cheat menu.
 Death is no longer permanent; the player is now able to respawn.
 0.32
 
 renamed to "Minecraft java edition pre-release"
-arrows and bows; iron axe are currenty unobtainable (expert with mods)
+arrows and bows; iron axe are currenty unobtainable (expert with mods).
 Added creative mode.
-mobs can spawn in creative mode
+mobs can spawn in creative mode.
 changes to level generator:
-trees and flowers no longer generate
+trees and flowers no longer generate.
 Because of this, flowers can only obtained via creative mode.
 
-fixed skeleton bug
-changed texture of grass block
+fixed skeleton bug.
+changed texture of grass block.
 0.32_01
+now unarchived.
 Monsters are passive due to their hostile AI has removed.
 Sheep now spawn with no wool.
-changed hud name to "Indev_0.31_(February_3,_2010) update"
+changed hud name to "Indev_0.31_(February_3,_2010) update".
+0.32_05
+sky color changed.
+now archived again.
+update 2:
+removed items, due to bug (bil:am program items and KKKRASH!!!!!!(crys) uaaaaaaaaaaaauaaaaaaaaaa!!!!!)
