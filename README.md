@@ -12,3 +12,8 @@ classic 0.32_05 has downloadable
 
 Post Issues or Pull Requests
 
+Issue Rules:
+Don't Post about other site
+Don't post links
+Don't Meme
+Don't Post Jokes
