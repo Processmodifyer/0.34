@@ -7,12 +7,12 @@ Death is no longer permanent; the player is now able to respawn.
 0.32
 
 renamed to "Minecraft java edition pre-release"
-arrows and bows; iron axe are currenty unobtainable (expert with mods).
+arrows and bows; iron axe are currenty unobtainable (expect with mods).
 Added creative mode.
 mobs can spawn in creative mode.
 changes to level generator:
 trees and flowers no longer generate.
-Because of this, flowers can only obtained via creative mode.
+Because of this, flowers, Leaves, Wood and planks can only obtained via creative mode.
 
 fixed skeleton bug.
 changed texture of grass block.
