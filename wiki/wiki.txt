@@ -29,3 +29,4 @@ changed hud name to "Indev_0.31_(February_3,_2010) update"
 0.32_06
 Skeleton how use human arms than zombie arm still not animate or attacking
 workbench added
+crocodille code and model and texture has added but only spawnable via mods
