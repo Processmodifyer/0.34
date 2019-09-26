@@ -16,14 +16,16 @@ Because of this, flowers can only obtained via creative mode.
 
 fixed skeleton bug.
 changed texture of grass block.
-0.32_01
-now unarchived.
-Monsters are passive due to their hostile AI has removed.
-Sheep now spawn with no wool.
-changed hud name to "Indev_0.31_(February_3,_2010) update".
 0.32_05
 sky color changed.
-now archived again.
 update 2:
 added lighter, which places fire.
 added fire, with no function, can placed via lighter.
+Pivate Testing:
+0.32_01
+Monsters are passive due to their hostile AI has removed.
+Sheep now spawn with no wool.
+changed hud name to "Indev_0.31_(February_3,_2010) update"
+0.32_06
+Skeleton how use human arms than zombie arm still not animate or attacking
+workbench added
