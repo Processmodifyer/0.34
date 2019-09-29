@@ -13,7 +13,7 @@ mobs can spawn in creative mode.
 changes to level generator:
 trees and flowers no longer generate.
 Because of this, flowers, Leaves, Wood and planks can only obtained via creative mode.
-
+Removed Arrow still spawnable via mods or loading 0.31_09 map
 fixed skeleton bug.
 changed texture of grass block.
 0.32_05
@@ -21,6 +21,11 @@ sky color changed.
 update 2:
 added lighter, which places fire.
 added fire, with no function, can placed via lighter.
+0.33
+Added Cobweb
+Changed Sound Library to jcraft to add more sounds
+re added arrows to skeletons with fixed bug
+added sounds for arrow Hit and pickup, tnt and creeper explosions, mob they make Ooh!, breaking blocks via resource
 Pivate Testing:
 0.32_01
 Monsters are passive due to their hostile AI has removed.
