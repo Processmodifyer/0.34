@@ -24,7 +24,7 @@ added fire, with no function, can placed via lighter.
 0.33
 features form 0.32_06
 Changed Sky Color to match to minecraft classic 0.24 survival test
-Added Cobweb
+Added Cobweb which producted by spiders
 Changed Sound Library to jcraft to add more sounds
 re added arrows to skeletons with fixed bug
 added sounds for arrow Hit and pickup, tnt and creeper explosions, mob they make Ooh!, breaking blocks via resource
