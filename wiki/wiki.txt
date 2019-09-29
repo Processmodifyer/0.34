@@ -22,6 +22,8 @@ update 2:
 added lighter, which places fire.
 added fire, with no function, can placed via lighter.
 0.33
+features form 0.32_06
+Changed Sky Color to match to minecraft classic 0.24 survival test
 Added Cobweb
 Changed Sound Library to jcraft to add more sounds
 re added arrows to skeletons with fixed bug
