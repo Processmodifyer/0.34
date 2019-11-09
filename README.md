@@ -19,3 +19,5 @@ alpha before Q4 2019
 beta before Q3 2020
 
 Full Release before Q3 2021
+
+Hallowen update is coming in november 2019
