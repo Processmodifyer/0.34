@@ -22,3 +22,5 @@ Full Release before Q3 2021
 
 
 to fix crash: copy native/windows to C:\Users\User\AppData\Roaming\.mcraft\client to work
+
+Development of hallowen is started in 25 october and ended in 10 november
