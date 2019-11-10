@@ -1,4 +1,4 @@
-minecraft classic 0.33
+minecraft classic 🎃0.33🎃 HALLOWEN 🎃🎃🎃🎃🎃!!!
 
 if Issues are in game am going to code to fix it.
 
@@ -20,4 +20,5 @@ beta before Q3 2020
 
 Full Release before Q3 2021
 
-Hallowen update is coming in november 2019
+
+to fix crash: copy native/windows to C:\Users\User\AppData\Roaming\.mcraft\client to work
