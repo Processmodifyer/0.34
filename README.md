@@ -1,26 +1,26 @@
-minecraft classic 🎃0.33🎃 HALLOWEN 🎃🎃🎃🎃🎃!!!
+Minecraft Classic 0.33 Halloween ended
 
-if Issues are in game am going to code to fix it.
+If issues are in the game I am going to code to fix it.
 
-speak with me when game have Issues
+Speak with me when our game has issues.
 
-private testing is for test things without play see wiki to versions
+Private testing is for testing things without playing see wiki to game versions
 
 Post Issues or Pull Requests
 
 WARNING: THIS GAME IS IN ALPHA PHASE, Expect bugs and glitches and crashes.
 
-Newer Vesions of game can add new features, game inprovement, new mobs, new blocks and items, new gui, and way to fix bugs is possible!
+Newer versions of the game can add new features, game improvement, new mobs, new blocks and items, new gui, and way to fix bugs is possible!
 
-pre-alpha before 2019, Passed
+Pre-alpha before 2019, Passed
 
-alpha before Q4 2019
+Alpha before Q4 2019
 
-beta before Q3 2020
+Beta before Q3 2020
 
 Full Release before Q3 2021
 
 
 to fix crash: copy native/windows to C:\Users\User\AppData\Roaming\ .mcraft\client to work
 
-Development of hallowen is started in 25 october and ended in 10 november
+Development of Halloween was started on 25 October and ended on 10 November.
