@@ -1,4 +1,4 @@
-Minecraft Classic 0.33 Halloween ended
+Minecraft Classic 0.33
 
 If issues are in the game I am going to code to fix it.
 
@@ -23,4 +23,3 @@ Full Release before Q3 2021
 
 to fix crash: copy native/windows to C:\Users\User\AppData\Roaming\ .mcraft\client to work
 
-Development of Halloween was started on 25 October and ended on 10 November.
