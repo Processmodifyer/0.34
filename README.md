@@ -23,3 +23,4 @@ Full Release before Q3 2021
 
 to fix crash: copy native/windows to C:\Users\User\AppData\Roaming\ .mcraft\client to work
 
+to fix no sound: copy sound to C:\Users\User\AppData\Roaming\ .mcraft\client/resource to work, create resource folder in \ .mcraft\client/
