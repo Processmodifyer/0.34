@@ -2,6 +2,8 @@ Minecraft Classic 0.34
 
 If issues are in the game I am going to code to fix it.
 
+minecraft classic 0.34 is enchanted version of minecraft classic, i have to make better, this version adds new features, blocks, mobs, mob ai improvement
+
 Speak with me when our game has issues.
 
 Private testing is for testing things without playing see wiki to game versions
