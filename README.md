@@ -1,4 +1,4 @@
-Minecraft Classic 0.33
+Minecraft Classic 0.34
 
 If issues are in the game I am going to code to fix it.
 
