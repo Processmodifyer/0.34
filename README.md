@@ -1,4 +1,6 @@
-Minecraft Classic 0.34
+Minecraft Classic 0.34 DISCOTINUED
+
+WARNING: THIS PROJECT IS DISCOTINUED, NO LONGER UPDATED OR CHANGED DUE I HAVE NEW PC AND MY ECLIPSE IS DELETED, it will be classic 20191221-1
 
 If issues are in the game I am going to code to fix it.
 
@@ -18,10 +20,9 @@ Pre-alpha before 2019, Passed
 
 Alpha before 19 november 2019 passed
 
-Beta before Q3 2020
+Beta before Q3 2020 CANCELLED
 
-Full Release before Q3 2021
-
+Full Release before Q3 2021 CANCELLED
 
 to fix crash: copy native/windows to C:\Users\User\AppData\Roaming\ .mcraft\client to work
 
